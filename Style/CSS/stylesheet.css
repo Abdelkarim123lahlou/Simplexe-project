@@ -1,0 +1,16 @@
+body {
+ font-family:arial, sans-serif;
+ /* font-size:100%; */
+ color:#000000;  /*code hexadécimal du noir */
+ }
+ .text{
+    
+    
+    background: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-cover.jpg") #4f4f4f;
+    
+}
+.text{
+    border-bottom: 2px solid #fff;
+    height: 120px;
+}
+ .panel-primary {background-color: red!important}
