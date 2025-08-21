@@ -63,7 +63,7 @@
 	if(isset(/*$_POST['Valider']*/$_SESSION['Solution']))
     {
 		/*********************************************/
-		/*    AFFECTATION DES VALEURS AU TABLEAU     */
+		/* 	AFFECTATION DES VALEURS AU TABLEAU     */
 		/*********************************************/
         $k=0;
         for($i=1;$i<=$_SESSION['cont'];$i++)
